@@ -153,4 +153,4 @@ We welcome contributions! Please:
 ## 📞 Contact
 **Priyank Tyagi**  
 📧 Email: priyanktyagi404.com  
-💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/priyank-tyagi-3a3a10259/)
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/priyank-tyagi-3a3a10259/)
