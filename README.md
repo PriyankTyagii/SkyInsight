@@ -8,6 +8,13 @@ It helps hostel groups and travel businesses monitor **real-time demand, price t
 This project integrates **live data sources, APIs, web scraping, AI-powered insights, and interactive visualizations** to deliver a seamless and actionable user experience.
 
 ---
+## OUTPUT 
+![Screenshot 2025-07-03 105614](https://github.com/user-attachments/assets/f942cc3d-501d-459d-9e29-6ec9e229d329)
+
+![Screenshot 2025-07-03 105632](https://github.com/user-attachments/assets/919786d7-0373-4764-a879-d2954a9ad87d)
+
+
+---
 
 ## 🎯 Key Features
 - ✅ Real-time airline booking market data via APIs and web scraping
