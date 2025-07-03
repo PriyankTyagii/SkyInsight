@@ -51,8 +51,8 @@ airline_demand_app/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/airline_demand_app.git
-cd airline_demand_app
+git clone https://github.com/PriyankTyagii/SkyInsight.git
+cd SkyInsight
 ```
 
 ### 2️⃣ Create a Virtual Environment
