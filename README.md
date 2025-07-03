@@ -115,18 +115,6 @@ Leverages the **OpenAI GPT API** to:
 
 ---
 
-## 🛠️ Development Timeline
-| Phase | Duration |
-|-------|----------|
-| Setup & Configuration | 2 Hours |
-| API & Web Scraper Development | 2 Hours |
-| Data Processing Engine | 2 Hours |
-| Web Interface & Dashboard | 2 Hours |
-| AI Integration | 2 Hours |
-| Testing & Deployment | 2 Hours |
-
----
-
 ## 🚀 Deployment Options
 - ✅ Local server via Flask
 - ✅ Heroku (Free tier)
